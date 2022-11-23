@@ -3,7 +3,7 @@ import random
 from datetime import date
 
 
-conexion = mysql.connector.connect(user='root', password='Dragonball2004*', host='localhost',
+conexion = mysql.connector.connect(user='root', password='*', host='localhost',
                                    database='mydb', port='3306')
 
 print(conexion)
